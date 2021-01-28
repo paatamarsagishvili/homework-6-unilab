@@ -1,3 +1,7 @@
+.body{
+	width: 1366px;
+	height: 1975px;
+}
 .header{
 	width:100%;
 	z-index: 20;
@@ -206,4 +210,19 @@
     float: left;
     margin-top: 30px;
     margin-left: 44px;
+}
+.readm{
+	font-family: 'Roboto', sans-serif;
+	float: right;
+	font-size: 14px;
+	color: #3D58A6;
+	margin-top: 25px;
+	margin-right: 9px;
+}
+.foot{
+	font-family: 'MyriadPro-Regular', sans-serif;
+	font-size: 12px;
+	float: left;
+	margin-left: 98px; 
+	margin-top: 22px;
 }
